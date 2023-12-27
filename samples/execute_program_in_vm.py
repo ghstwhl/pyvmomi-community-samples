@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """
 Written by Timo Sugliani
 Github: https://github.com/tsugliani/

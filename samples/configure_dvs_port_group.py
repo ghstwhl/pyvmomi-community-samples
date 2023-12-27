@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # Written by Mahesh kumar and Pavan Bidkar
 # GitHub: https://github.com/vmware/pyvmomi
 # Email: kumahesh@vmware.com, pbidkar@vmware.com

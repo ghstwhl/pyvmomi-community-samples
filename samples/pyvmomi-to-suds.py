@@ -1,6 +1,10 @@
 #!/usr/bin/env python
 
-import cookielib
+try:
+    import cookielib
+except:
+    import http.cookiejar
+    cookielib = http.cookiejar
 import suds
 from tools import cli, service_instance
 
